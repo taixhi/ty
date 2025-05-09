@@ -32,7 +32,7 @@ Start the language server for IDE integration:
 ty server
 ```
 
-For detailed information about command-line options, see the [CLI documentation](ruff/crates/ty/docs/cli.md).
+For detailed information about command-line options, see the [CLI documentation]([ruff/crates/ty/docs/cli.md](https://github.com/astral-sh/ruff/blob/main/crates/ty/docs/cli.md)).
 
 ## Getting involved
 
